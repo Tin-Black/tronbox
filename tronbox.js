@@ -9,7 +9,7 @@ module.exports = {
         //658d71505234f42fe1461f58c90fdd107c8d511c6883a7ad7d078bc2be6c244a
       consume_user_resource_percent: 30,
       fee_limit: 100000000,
-
+      //tron trx ptivkey 
       // Requires TronBox 2.1.9+ and Tron Quickstart 1.1.16+
       // fullHost: "http://127.0.0.1:9090",
 
